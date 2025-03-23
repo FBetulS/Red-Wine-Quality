@@ -3,6 +3,9 @@
 
 Bu proje, kırmızı şarap kalitesini tahmin etmek için çeşitli makine öğrenmesi algoritmalarını kullanmaktadır.
 
+⚠️ Not
+3D grafiklerim ve görselleştirmelerim maalesef gözükmüyor. Bu durum, bazı tarayıcı veya platform uyumsuzluklarından kaynaklanabilir.
+
 ## 📂 Veri Seti
 Veri seti, UCI Machine Learning Repository'den alınmıştır. Aşağıdaki bağlantıdan erişebilirsiniz:  
 [Kırmızı Şarap Kalitesi Veri Seti](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009/data)
