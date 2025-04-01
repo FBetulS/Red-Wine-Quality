@@ -10,6 +10,10 @@ Bu proje, kırmızı şarap kalitesini tahmin etmek için çeşitli makine öğr
 Veri seti, UCI Machine Learning Repository'den alınmıştır. Aşağıdaki bağlantıdan erişebilirsiniz:  
 [Kırmızı Şarap Kalitesi Veri Seti](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009/data)
 
+[Kırmızı Şarap Kalitesi - Hugging Face ](https://huggingface.co/spaces/btulftma/red_wine)
+
+
+
 ## 🔍 Proje Adımları
 - **Veri Analizi ve Görselleştirme**  
 - **Ön İşleme (Eksik veriler, aykırı değerler, ölçeklendirme)**  
